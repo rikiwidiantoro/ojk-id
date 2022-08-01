@@ -1,5 +1,5 @@
 # ojk-id
-website informasi data produk dan aplikasi investasi yang terdaftar di Otoritas Jaksa Keuangan Republik Indonesia
+Website informasi mengenai data produk dan aplikasi investasi yang sudah terdaftar di Otoritas Jasa Keuangan Republik Indonesia
 
 dibuat dengan :
 1. Bahasa markup HTML dan CSS
